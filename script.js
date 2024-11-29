@@ -804,7 +804,7 @@
 
 var key = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 ];
 
-var text = 'dad';
+var text = 'nxkpF%b=jL8!#Pr';
 var textBytes = aesjs.utils.utf8.toBytes(text);
 
 var aesCtr = new aesjs.ModeOfOperation.ctr(key, new aesjs.Counter(5));
